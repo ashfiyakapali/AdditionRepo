@@ -4,9 +4,11 @@ public class addition {
             int b = 20; 
     
             int sum = a + b;
+            int sub = a - b;
     
             System.out.println("Sum of a and b: " + sum);
+            System.out.println("Sub of a and b: " + sub);
         }
     }
 
-}
+
